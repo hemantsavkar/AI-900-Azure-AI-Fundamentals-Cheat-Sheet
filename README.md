@@ -78,7 +78,7 @@ Responsible AI principles ensure that AI is used ethically and safely. Key consi
 ### 2. Describe Fundamental Principles of Machine Learning on Azure (20–25%)
 
 #### Identify Common Machine Learning Techniques
-Machine learning techniques include:
+  Machine learning techniques include:
 - **Supervised machine learning**
   - *Regression*: Predicting continuous values.
     e.g.The number of ice creams sold on a given day, based on the temperature, rainfall, and windspeed.
@@ -91,16 +91,13 @@ Machine learning techniques include:
 - **Unsupervised machine learning**
   - *Clustering*: Grouping similar data points together. eg. Identify groups of similar customers based on demographic attributes and purchasing behavior.
 - **Deep Learning**: Using neural networks with many layers for complex tasks.
+  - Deep learning involves neural networks with multiple layers (deep neural networks) to model complex patterns in data, useful for tasks like image and speech recognition.
   - *Azure Tool*: [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
 
-#### Identify Regression, Classification, and Clustering Machine Learning Scenarios
-- **Regression**: Predicting house prices based on features like size and location.
-- **Classification**: Email spam detection.
-- **Clustering**: Customer segmentation in marketing.
+#### Transformers
+The Transformer architecture is a significant development in the field of natural language processing (NLP). It revolutionized how models handle sequential data, allowing for better performance in tasks such as translation and text generation by leveraging mechanisms like self-attention and parallel processing.
 
-#### Identify Features of Deep Learning Techniques
-Deep learning involves neural networks with multiple layers (deep neural networks) to model complex patterns in data, useful for tasks like image and speech recognition.
-  - *Azure Tool*: [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
+In Azure Machine Learning, users can explore and work with large language models (LLMs) that are built on the Transformer architecture, utilizing foundation models available in the model catalog.
 
 #### Describe Core Machine Learning Concepts
 Core concepts include:
