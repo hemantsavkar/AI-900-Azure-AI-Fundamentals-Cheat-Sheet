@@ -79,9 +79,13 @@ Responsible AI principles ensure that AI is used ethically and safely. Key consi
 
 #### Identify Common Machine Learning Techniques
 Machine learning techniques include:
-- **Regression**: Predicting continuous values.
-- **Classification**: Assigning labels to data points.
-- **Clustering**: Grouping similar data points together.
+- **Supervised machine learning**
+  - *Regression*: Predicting continuous values.
+    -  Binary Classification
+    -  Multiclass Classification
+  - *Classification*: Assigning labels to data points.
+- **Unsupervised machine learning**
+  - *Clustering*: Grouping similar data points together.
 - **Deep Learning**: Using neural networks with many layers for complex tasks.
   - *Azure Tool*: [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
 
