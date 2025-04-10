@@ -80,10 +80,14 @@ Responsible AI principles ensure that AI is used ethically and safely. Key consi
 #### Identify Common Machine Learning Techniques
 Machine learning techniques include:
 - **Supervised machine learning**
-  - *Regression*: Predicting continuous values.e.g.The number of ice creams sold on a given day, based on the temperature, rainfall, and windspeed.
+  - *Regression*: Predicting continuous values.
+    e.g.The number of ice creams sold on a given day, based on the temperature, rainfall, and windspeed.
   - *Classisifcation*: Predicting continuous values.
-    -  Binary Classification .eg. Whether a patient is at risk for diabetes based on clinical metrics like weight, age, blood glucose level, and so on.
-    -  Multiclass Classificatione.eg.The species of a penguin (Adelie, Gentoo, or Chinstrap) based on its physical measurements.
+    -  Binary Classification.
+       - Essentially, predicting true or false.
+       eg. Whether a patient is at risk for diabetes based on clinical metrics like weight, age, blood glucose level, and so on.
+    -  Multiclass Classificatione.
+       eg.The species of a penguin (Adelie, Gentoo, or Chinstrap) based on its physical measurements.
 - **Unsupervised machine learning**
   - *Clustering*: Grouping similar data points together. eg. Identify groups of similar customers based on demographic attributes and purchasing behavior.
 - **Deep Learning**: Using neural networks with many layers for complex tasks.
